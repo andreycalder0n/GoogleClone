@@ -41,3 +41,18 @@ nav .nav-rigth-section img {
     height: 2rem;
     border-radius: 50%;
 }
+
+main {
+    margin-top: 15rem;
+    text-align: center;
+}
+
+.main-logo{
+    margin: 0 auto;
+    margin-bottom: 3.5rem;
+}
+
+.main-logo img {
+    width: 27.2rem;
+    height: 9.2rem;
+}
