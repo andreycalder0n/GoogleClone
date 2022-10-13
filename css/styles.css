@@ -91,3 +91,28 @@ main .main-input .main-search .micro-icon {
     cursor: hand;
     padding: 0.7rem;
 }
+
+main .main-buttons{
+    width: 53rem;
+    margin: 0 auto;
+}
+main .main-buttons div{
+    display: inline-block;
+}
+main .main-buttons button{
+    height: 3.6rem;
+    background-color: #dee5e7;
+    border: 0;
+    font-size: 1.4rem;
+    color:#3d3f42;
+    border-radius: .5rem;
+    padding: 0 1.5rem;
+    margin-right: 1rem;
+}
+main .main-buttons button:hover{
+    color: #151515;
+    border:.1rem solid #c6c6c6;
+    box-shadow: 0 .1rem .1rem rgb(16, 15, 15);
+    cursor: pointer;
+    cursor: hand;
+}
